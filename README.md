@@ -1,6 +1,6 @@
 # stunning-funicular
 
-Machine Learning
+Machine Learning.
 
 
 Bootstrap Aggregation.
