@@ -18,3 +18,4 @@ y_pred = dtree.predict(X_test)
 print("Train data accuracy:",accuracy_score(y_true = y_train, y_pred = dtree.predict(X_train)))
 
 print("Test data accuracy:",accuracy_score(y_true = y_test, y_pred = y_pred))
+
